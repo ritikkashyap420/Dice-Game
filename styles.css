@@ -7,11 +7,16 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
-  background-color: #393E46;
+  background-color: #fcdada;
+  background-image: url("https://us.123rf.com/450wm/sevennew/sevennew1702/sevennew170200005/71856142-lichte-kleur-houtnerf-tafelblad-achtergrondfoto.jpg?ver=6");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
 }
 
 h1 {
@@ -19,12 +24,13 @@ h1 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #5c969e;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ECCA3;
+  font-size: 3rem;
+  color: #5c969e;
+
   font-family: 'Indie Flower', cursive;
 }
 
@@ -34,8 +40,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: black;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
